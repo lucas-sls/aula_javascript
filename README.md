@@ -1,2 +1,18 @@
 # aula_javascript
-Aprendendo os comandos básicos na linguagem Javascript.
+Aprendendo os comandos básicos na linguagem Javascript em interação com o index.html.
+OBS: COMENTÁRIOS ADICIONAIS FORAM ADICIONADOS DOS RESPECTIVOS ARQUIVOS .JS!
+
+ARQUIVO MAIN.JS:
+
+1. COMANDOS INICIAIS;
+2. ARRAY E DICIONÁRIO;
+3. CONDICIONAIS, LAÇOS DE REPETIÇÃO E FUNÇÃO DATE();
+4. ALGUMAS FUNÇÕES DE INTERAÇÃO ENTRE HTML E JS.
+
+ARQUIVO MAIN_2.S:
+
+1. ESTUDO DE MAIS ALGUMAS FUNÇÕES:
+    A) SOMA SIMPLES;
+    B) APLICAÇÃO DE REPLACE EM FRASES;
+    C) TESTE BOOLEANO PARA DETECÇÃO DE MAIORIDADE.
+

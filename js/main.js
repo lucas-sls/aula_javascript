@@ -77,3 +77,38 @@ for (count; count <=5; count++){
 
 //var date = new Date(); // FUNÇÃO DATE
 //alert(date);
+
+
+// TESTANDO INTERAÇÃO DE BOTÃO COM HTML
+
+/*
+function clicou(){
+    alert("Obrigado!");
+}
+*/
+
+function load(){
+    alert("Página carregada!")
+}
+
+function clicou(){ // MUDA O TEXTO EM NEGRITO AO CLICAR E APARECE MENSAGEM NO CONSOLE
+    document.getElementById("Agradecimento").innerHTML="OK!";
+    console.log('ABCD')
+}
+
+function redirecionar(){
+    window.open('https://www.youtube.com/') // REDIRECIONA PARA OUTRA ABA!
+    //window.location.href='https://www.youtube.com/'; // CARREGA OA SITE NA MESMA ABA!
+}
+
+function trocar(elemento){
+    elemento.innerHTML="Obrigado por passar o mouse"; // MUDA O TEXTO AO PASSAR O MOUSE POR CIMA
+}
+
+function voltar(elemento){ // AO TIRAR O MOUSE DO TEXTO, RETORNA AO TEXTO ORIGINAL.
+    elemento.innerHTML = "Passe o mouse aqui."
+}
+
+function funcaoChange(elemento){
+    alert(elemento.value)
+}
